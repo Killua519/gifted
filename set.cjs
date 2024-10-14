@@ -27,8 +27,8 @@ const config = {
   MODE: process.env.MODE || 'public',
   PREFIX: process.env.PREFIX || '.',
   PORT: process.env.PORT || "5000", /* Where App Will Listen On */
-  OWNER_NAME: process.env.OWNER_NAME || "Immera💓",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "27797773371",
+  OWNER_NAME: process.env.OWNER_NAME || "Australia 💓",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254754795787",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false,
 };
 
